@@ -52,7 +52,7 @@
 
 /* Includes ------------------------------------------------------------------*/
 #include "stm32f4xx_hal.h"
-#include "../Components/n25q128a/n25q128a.h"
+#include "components/n25q128a/n25q128a.h"
 
 
 /** @addtogroup STM32469I_Discovery_QSPI
